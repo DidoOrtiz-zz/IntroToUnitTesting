@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="DemoTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2020-07-03T11:57:01" hostname="Dianas-MacBook-Pro.local" time="0.024">
+  <properties/>
+  <testcase name="testIsNotTriangleScalene" classname="DemoTest" time="0.001"/>
+  <testcase name="testIsNotTriangleSideZero" classname="DemoTest" time="0.0"/>
+  <testcase name="testIsNotTriangleSidesZero" classname="DemoTest" time="0.0"/>
+  <testcase name="testMainIsTriangle" classname="DemoTest" time="0.01"/>
+  <testcase name="testIsTriangleIsosceles" classname="DemoTest" time="0.0"/>
+  <testcase name="testInvalidOutput" classname="DemoTest" time="0.009"/>
+  <testcase name="testIsNotTriangleNegativeSide" classname="DemoTest" time="0.0"/>
+  <testcase name="testIsTriangleEquilateral" classname="DemoTest" time="0.001"/>
+  <testcase name="testIsTriangleScalene" classname="DemoTest" time="0.0"/>
+  <testcase name="testMainIsNotTriangle" classname="DemoTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
